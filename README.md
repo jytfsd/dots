@@ -15,3 +15,6 @@
 `nvm`
 `bat`
 `fish`
+
+## `sdkman`
+Install gradle, maven, java
