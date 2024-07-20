@@ -15,6 +15,7 @@
 `nvm`
 `bat`
 `fish`
+`tmux`
 
 ## `sdkman`
 Install gradle, maven, java
