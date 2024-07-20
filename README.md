@@ -9,3 +9,9 @@
 - Discord
 - Steam
 - Obsidian
+
+# What i use
+`sdkman`
+`nvm`
+`bat`
+`fish`
