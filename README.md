@@ -16,6 +16,8 @@
 `bat`
 `fish`
 `tmux`
+`fzf`
+`zoxide`
 
 ## `sdkman`
 Install gradle, maven, java
