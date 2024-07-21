@@ -18,6 +18,9 @@
 `tmux`
 `fzf`
 `zoxide`
+`ripgrep` 
+`entr`
+`midnight-commander`
 
 ## `sdkman`
 Install gradle, maven, java
