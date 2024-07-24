@@ -5,6 +5,7 @@ sudo zypper refresh
 sudo zypper install code
 
 # sdkman
+sudo zypper in zip -Y
 curl -s "https://get.sdkman.io" | bash 
 sdk install java
 sdk install maven
@@ -26,3 +27,6 @@ brew install midnight-commander
 # brew install zsh
 sudo zypper in zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+
+# terminator
+sudo zypper in terminator
