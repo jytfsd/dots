@@ -30,3 +30,14 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 
 # terminator
 sudo zypper in terminator
+
+# antigen
+curl -L git.io/antigen > antigen.zsh
+antigen bundle zsh-users/zsh-syntax-highlighting
+antigen bundle zsh-users/zsh-autosuggestions
+antigen bundle zsh-users/zsh-history-substring-search
+
+brew install gradle-completion
+git clone https://github.com/gradle/gradle-completion ~/.oh-my-zsh/plugins/gradle-completion
+plugins+=(gradle-completion sudo copydir copyfile copybufffer jsontools)
+antigen bundle StackExchange/blackbox
