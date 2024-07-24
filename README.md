@@ -1,13 +1,14 @@
 # Applications
 ## Coding
 - Vscode
-- Intellij
+- ~~Intellij~~
 - Postman
-- Warp (terminal)
+- ~~Warp (terminal)~~
+- Terminator
 - dbvisualizer
 ## Misc
-- Discord
-- Steam
+- ~~Discord~~
+- ~~Steam~~
 - Obsidian
 
 # What i use
