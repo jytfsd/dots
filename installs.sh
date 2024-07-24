@@ -12,7 +12,7 @@ sdk install maven
 sdk install gradle
 
 # homebrew
-
+sudo zypper in git -Y
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 brew install nvm
 brew install bat
