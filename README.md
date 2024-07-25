@@ -24,8 +24,10 @@
 `entr`
 `midnight-commander`
 
-## `zsh`
-i used to have starship but now that spaceships ssl issue is resolved imma go back to spaceship
-
 ## `sdkman`
 Install gradle, maven, java
+
+## zsh
+```
+curl -sS https://starship.rs/install.sh | sh
+```
