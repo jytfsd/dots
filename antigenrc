@@ -11,6 +11,8 @@ antigen bundle copydir
 antigen bundle copyfile
 antigen bundle sudo
 antigen bundle gradle-completion
+antigen bundle fzf
+antigen bundle zoxide
 
 # Load bundles from external repos
 antigen bundle zsh-users/zsh-completions
