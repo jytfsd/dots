@@ -31,3 +31,6 @@ Install gradle, maven, java
 ```
 curl -sS https://starship.rs/install.sh | sh
 ```
+
+## tmux configs
+https://github.com/gpakosz/.tmux
