@@ -22,7 +22,6 @@
 `zoxide`
 `ripgrep` 
 `entr`
-`midnight-commander`
 `lsd`
 
 ## `sdkman`
