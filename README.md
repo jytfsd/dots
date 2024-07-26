@@ -23,6 +23,7 @@
 `ripgrep` 
 `entr`
 `midnight-commander`
+`exa`
 
 ## `sdkman`
 Install gradle, maven, java
