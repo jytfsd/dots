@@ -21,7 +21,6 @@ brew install fzf
 brew install zoxide
 brew install ripgrep
 brew install entr
-brew install midnight-commander
 brew install lsd
 
 # zsh
