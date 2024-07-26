@@ -22,7 +22,7 @@ brew install zoxide
 brew install ripgrep
 brew install entr
 brew install midnight-commander
-brew install exa
+brew install lsd
 
 # zsh
 # brew install zsh
